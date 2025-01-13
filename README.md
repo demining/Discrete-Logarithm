@@ -2059,7 +2059,6 @@ HEX:  6b29781e725708ae4d94e13730a2718ee3383ea5d911e77d4c2a2fd0c99c1232</strong><
 <figure class="aligncenter size-full is-resized"><a href="https://dzen.ru/video/watch/6784be61b09e46422395c236"><img loading="lazy" decoding="async" width="646" height="371" src="./Discrete Logarithms - «CRYPTO DEEP TECH»_files/image-10(1).png" alt="Discrete Logarithms" class="wp-image-3151" style="width:509px;height:auto" srcset="https://cryptodeeptech.ru/wp-content/uploads/2025/01/image-10.png 646w, https://cryptodeeptech.ru/wp-content/uploads/2025/01/image-10-300x172.png 300w" sizes="auto, (max-width: 646px) 100vw, 646px"></a></figure></div>
 
 
-<p class="has-text-align-center"><iframe loading="lazy" width="480" height="270" src="./Discrete Logarithms - «CRYPTO DEEP TECH»_files/vIN4t1u38O1U.html" allow="autoplay; fullscreen; accelerometer; gyroscope; picture-in-picture; encrypted-media" data-testid="embed-iframe" frameborder="0" scrolling="no" allowfullscreen=""></iframe></p>
 
 
 
