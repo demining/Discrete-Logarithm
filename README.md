@@ -443,7 +443,7 @@ ________________________________________________________________________________
 <figure class="aligncenter size-full is-resized"><a href="https://www.youtube.com/watch?v=ErjCph1mI9Y"><img decoding="async" width="746" height="426" src="./Discrete Logarithms - «CRYPTO DEEP TECH»_files/image-4.png" alt="Discrete Logarithms" class="wp-image-3142" style="width:840px;height:auto" srcset="https://cryptodeeptech.ru/wp-content/uploads/2025/01/image-4.png 746w, https://cryptodeeptech.ru/wp-content/uploads/2025/01/image-4-300x171.png 300w" sizes="(max-width: 746px) 100vw, 746px"></a></figure></div>
 
 
-<p class="has-text-align-center"><iframe loading="lazy" width="560" height="315" src="./Discrete Logarithms - «CRYPTO DEEP TECH»_files/ErjCph1mI9Y.html" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></p>
+
 
 
 
@@ -550,7 +550,7 @@ python3 tutorials.py</strong>
 <figure class="aligncenter size-full is-resized"><a href="https://www.youtube.com/watch?v=vI-S3ua0QEA"><img loading="lazy" decoding="async" width="749" height="428" src="./Discrete Logarithms - «CRYPTO DEEP TECH»_files/image-2.png" alt="Discrete Logarithms" class="wp-image-3140" style="width:840px;height:auto" srcset="https://cryptodeeptech.ru/wp-content/uploads/2025/01/image-2.png 749w, https://cryptodeeptech.ru/wp-content/uploads/2025/01/image-2-300x171.png 300w" sizes="auto, (max-width: 749px) 100vw, 749px"></a></figure></div>
 
 
-<p class="has-text-align-center"><iframe loading="lazy" width="560" height="315" src="./Discrete Logarithms - «CRYPTO DEEP TECH»_files/vI-S3ua0QEA.html" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></p>
+
 
 
 
@@ -773,7 +773,7 @@ python3 tutorials.py</strong>
 <figure class="aligncenter size-full is-resized"><a href="https://www.youtube.com/watch?v=yRGZ41jvGKw"><img loading="lazy" decoding="async" width="748" height="428" src="./Discrete Logarithms - «CRYPTO DEEP TECH»_files/image-5.png" alt="Discrete Logarithms" class="wp-image-3144" style="width:840px;height:auto" srcset="https://cryptodeeptech.ru/wp-content/uploads/2025/01/image-5.png 748w, https://cryptodeeptech.ru/wp-content/uploads/2025/01/image-5-300x172.png 300w" sizes="auto, (max-width: 748px) 100vw, 748px"></a></figure></div>
 
 
-<p class="has-text-align-center"><iframe loading="lazy" width="560" height="315" src="./Discrete Logarithms - «CRYPTO DEEP TECH»_files/yRGZ41jvGKw.html" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></p>
+
 
 
 
@@ -924,7 +924,7 @@ f.close()</strong></code></pre>
 <figure class="aligncenter size-full is-resized"><a href="https://www.youtube.com/watch?v=8B2LKMBsVSE"><img loading="lazy" decoding="async" width="748" height="429" src="./Discrete Logarithms - «CRYPTO DEEP TECH»_files/image-6.png" alt="Discrete Logarithms" class="wp-image-3145" style="width:840px;height:auto" srcset="https://cryptodeeptech.ru/wp-content/uploads/2025/01/image-6.png 748w, https://cryptodeeptech.ru/wp-content/uploads/2025/01/image-6-300x172.png 300w" sizes="auto, (max-width: 748px) 100vw, 748px"></a></figure></div>
 
 
-<p class="has-text-align-center"><iframe loading="lazy" width="560" height="315" src="./Discrete Logarithms - «CRYPTO DEEP TECH»_files/8B2LKMBsVSE.html" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></p>
+
 
 
 
@@ -1162,7 +1162,7 @@ Joux_Lercier_Algorithm
 <figure class="aligncenter size-full is-resized"><a href="https://www.youtube.com/watch?v=LTzMQPstvpM"><img loading="lazy" decoding="async" width="751" height="426" src="./Discrete Logarithms - «CRYPTO DEEP TECH»_files/image-7.png" alt="Discrete Logarithms" class="wp-image-3146" style="width:840px;height:auto" srcset="https://cryptodeeptech.ru/wp-content/uploads/2025/01/image-7.png 751w, https://cryptodeeptech.ru/wp-content/uploads/2025/01/image-7-300x170.png 300w" sizes="auto, (max-width: 751px) 100vw, 751px"></a></figure></div>
 
 
-<p class="has-text-align-center"><iframe loading="lazy" width="560" height="315" src="./Discrete Logarithms - «CRYPTO DEEP TECH»_files/LTzMQPstvpM.html" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></p>
+
 
 
 
@@ -1260,7 +1260,7 @@ Joux_Lercier_Algorithm
 <figure class="aligncenter size-full is-resized"><a href="https://www.youtube.com/watch?v=gDBDP9bseE0"><img loading="lazy" decoding="async" width="746" height="429" src="./Discrete Logarithms - «CRYPTO DEEP TECH»_files/image-8.png" alt="Discrete Logarithms" class="wp-image-3147" style="width:838px;height:auto" srcset="https://cryptodeeptech.ru/wp-content/uploads/2025/01/image-8.png 746w, https://cryptodeeptech.ru/wp-content/uploads/2025/01/image-8-300x173.png 300w" sizes="auto, (max-width: 746px) 100vw, 746px"></a></figure></div>
 
 
-<p class="has-text-align-center"><iframe loading="lazy" width="560" height="315" src="./Discrete Logarithms - «CRYPTO DEEP TECH»_files/gDBDP9bseE0.html" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></p>
+
 
 
 
